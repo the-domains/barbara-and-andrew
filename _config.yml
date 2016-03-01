@@ -1,14 +1,29 @@
+name: Barbara and Andrew
+favicon: null
 layout_spectrum: 0.3466698
 typography_spectrum: 0.03763473
+title: 'WKTECH '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3625566
-  lightness: 0.9017263
-  brandStrength: 0.9685214
-  rhythmicContrast: 0.5278212
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-name: Barbara and Andrew
+  brandStrength: 0.9685214
+  lightness: 0.9017263
+  saturation: 0.3625566
+  rhythmicContrast: 0.5278212
+purpose: []
